@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShirleyMurray
 - 👀 I’m interested in Quality Assurance Testing
 - 🌱 I’m currently learning Git and GitHub
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on API testing
 - 📫 How to reach me ...
 
 <!---
